@@ -1,0 +1,6 @@
+@ElasticAPMMongoDBDependency_HostAddress = http://localhost:5058
+
+GET {{ElasticAPMMongoDBDependency_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
